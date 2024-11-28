@@ -6,7 +6,12 @@
 
 ---
 
-## 🚀 Flutter Framework - My Journey with Dart & Flutter
+<p align="center">
+  <a href="https://github.com/CodderPrince">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=48&pause=2000&color=00FF00&center=true&vCenter=true&width=1000&lines=🚀+Welcome+to+my+Flutter+Journey!+;Dart+and+Flutter+for+the+win!+;Code+and+create+with+me!" alt="Flutter Journey">
+  </a>
+</p>
+
 
 ### 💡 **What is Flutter?**
 **Flutter** is an open-source UI software development kit created by **Google**. It allows developers to build beautiful, natively compiled applications for **mobile**, **web**, and **desktop** from a single codebase. The power of **Dart** combined with **Flutter** makes it a powerful tool for developers looking to create fast, expressive, and high-performance apps.
