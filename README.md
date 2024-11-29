@@ -117,7 +117,36 @@ Here are some of the resources I follow to stay up-to-date with **Flutter**:
 ---
 
 ### 📣 **Let’s Connect**
-Feel free to connect with me on [GitHub](https://github.com/CodderPrince) or [LinkedIn](https://www.linkedin.com/in/prince) to share your **Flutter** experiences or discuss **Dart** and **Flutter** development!
+
+<p align="left">
+  <a href="mailto:cse12105007brur@gmail.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FFA500&width=800&lines=📧+Gmail:+cse12105007brur@gmail.com" alt="Gmail">
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://codeforces.com/profile/Prince.001">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF00&width=800&lines=💻+Codeforces:+Prince.001" alt="Codeforces">
+  </a>
+</p>
+
+
+
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+  <!-- GitHub Icon -->
+  <a href="https://github.com/CodderPrince" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"
+    style="border-radius: 50%; height: 70px; width: 180px;">
+  </a>
+  
+  <!-- Facebook Icon -->
+  <a href="https://www.facebook.com/md.annahian" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"
+    style="border-radius: 150%; height: 70px; width: 190px;">
+  </a>
+</div>
+
+
 
 ---
 
