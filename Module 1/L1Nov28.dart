@@ -16,7 +16,7 @@ void main() {
   print("My name is ${myName} and my age is ${age}");
 
   // Input an integer
-  print('Enter an integer:');
+  print('Enter an integer: ');
   String? intInput = stdin.readLineSync();
   int number = int.parse(intInput!);
   print('You entered the integer: $number');
